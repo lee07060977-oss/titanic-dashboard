@@ -1,0 +1,6 @@
+# 대시보드 화면(제목·위젯·KPI) 만들기
+streamlit
+# titanic.csv 읽기 · 필터
+pandas
+# 인터랙티브 차트
+plotly
